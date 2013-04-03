@@ -1,0 +1,17 @@
+●参考ソフトウェア
+・公式
+
+・msysgit
+http://code.google.com/p/msysgit/downloads/list
+
+・Tortoisegit
+http://code.google.com/p/tortoisegit/
+
+
+■用語
+push：？？？
+
+commit：add？
+
+ワークツリー：チェックアウトしたディレクトリ
+
